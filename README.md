@@ -20,9 +20,9 @@ java8
 
 **3.listener类型**
 
-2.1将listener.jsp文件放到tomcat根目录下，通过浏览器访问，可创建内存马。
+3.1将listener.jsp文件放到tomcat根目录下，通过浏览器访问，可创建内存马。
 
-2.2任意路径访问，添加参数cmd= whoami，即可。
+3.2任意路径访问，添加参数cmd= whoami，即可。
 
 **4.tomcat.jsp**
 
